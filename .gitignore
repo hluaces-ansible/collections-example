@@ -6,6 +6,7 @@ config/known_hosts
 
 # Ignore uptream code directory
 roles/vendors/*
+collections/vendors/*
 
 # Ignore generic files
 *.pyc

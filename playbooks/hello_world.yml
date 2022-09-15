@@ -3,6 +3,6 @@
 - name: 'Ejemplo de playbook que usa un rol de colección'
   hosts: 'examples'
   roles:
-    - role: 'hluaces.helloworld.hello'
+    - role: 'hluaces.collection_template.hello_world'
       vars: {}
 

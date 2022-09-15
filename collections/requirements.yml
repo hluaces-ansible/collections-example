@@ -1,6 +1,6 @@
 ---
 
 collections:
-  - name: 'ssh://git@gitlab.raiolanetworks.com:11022/sistemas/ansible/collections/cloudlinux.git'
+  - name: 'git@github.com:hluaces-ansible/collection-template.git'
     type: 'git'
-    version: 'master'
+    version: 'main'
