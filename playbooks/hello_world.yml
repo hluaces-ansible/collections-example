@@ -1,0 +1,8 @@
+---
+
+- name: 'Ejemplo de playbook que usa un rol de colección'
+  hosts: 'examples'
+  roles:
+    - role: 'hluaces.helloworld.hello'
+      vars: {}
+
